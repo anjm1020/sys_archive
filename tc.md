@@ -148,7 +148,9 @@
 
 23  
 28
+
 ---
+
 ./a.out A 1 input4 output && cat output  
 ./a.out A 10 input4 output && cat output  
 
@@ -205,8 +207,10 @@
 1204  
 1231  
 1243  
-1246  
+1246
+
 ---
+
 ./a.out OYA 5 input4 output && cat output  
 ./a.out OYA 50 input4 output && cat output  
 ./a.out OYA 1 input4 output && cat output  
