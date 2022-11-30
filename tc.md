@@ -146,13 +146,12 @@
 
 ./a.out CC 200 input3 output && cat output
 
-23
-
+23  
 28
 ---
 ./a.out A 1 input4 output && cat output  
 ./a.out A 10 input4 output && cat output  
-  
+
 7  
 10  
 35  
@@ -211,8 +210,7 @@
 ./a.out OYA 5 input4 output && cat output  
 ./a.out OYA 50 input4 output && cat output  
 ./a.out OYA 1 input4 output && cat output  
-./a.out OYA 4 input4 output && cat output  
-  
+./a.out OYA 4 input4 output && cat output
 5  
 8  
 108  
